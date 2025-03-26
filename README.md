@@ -1,5 +1,3 @@
-# Cok Dilli Hesap Makinesi Yorumlayicisi
-
 ### BIL 395
 #### Adi Soyadi:
 Hayrettin Kaan Ozsoy
@@ -7,6 +5,7 @@ Hayrettin Kaan Ozsoy
 #### Ogrenci No:
 201104086
 
+# Cok Dilli Hesap Makinesi Yorumlayicisi
 
 Bu proje, bes farkli programlama dilinde basit bir aritmetik ifade yorumlayicisinin implementasyonunu icerir.
 
